@@ -1,7 +1,6 @@
 # Generative Adversarial Networks
 
-![Language](https://img.shields.io/badge/Language-C++-blue.svg)
-![Language](https://img.shields.io/badge/Language-Python-blue.svg)
+![Language](https://img.shields.io/badge/Language-C++_&_Python-blue.svg)
 ![Librairies](https://img.shields.io/badge/Librairies-PyTorch_&_LibTorch_&_OpenCV_&_Tesseract-green.svg)
 ![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%202022-red.svg)
 
